@@ -23,8 +23,8 @@ const NavItems = () => {
   const links = [
     {
       title: "Home",
-      href: "/",
-      isActive: pathname == "/",
+      href: "/academy/",
+      isActive: pathname == "/academy/",
     },
     {
       title: "Events",
